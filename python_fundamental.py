@@ -1,2 +1,42 @@
-# sequential
-# branch
+# Sequential
+
+print('Hello World')
+print('Python is great')
+print('Python have simple syntax')
+
+# Branch
+# 1. If Statement
+
+"""name = input('What is your name? ')
+
+if name=='john':
+    print(f'Hello {name}')
+print('Thank you')"""
+
+# 2. If Else Statement
+
+"""hobby = input('What is your hobby? ')
+
+if hobby=='soccer':
+    print('That is great')
+else:
+    print('Cool')
+print('Nice hobby')"""
+
+# 3. Elif = Else If Statement
+
+age = input('How old are you? ')
+
+if age=='15':
+    print('You are a teenager')
+elif age=='50':
+    print('You are an elder')
+else:
+    print('Just kidding, hehe')
+print('Okay')
+
+
+
+
+
+
