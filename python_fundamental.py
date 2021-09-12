@@ -37,12 +37,17 @@ print('Okay')"""
 
 # 4. While loop
 
-chance = 0
+"""chance = 0
 limit = 3
 
 while chance < limit:
     print(chance)
-    chance += 1
+    chance += 1"""
+
+# 5. For loop
+
+for i in range(1, 15, 2): # start finish step
+    print(i)
 
 
 
