@@ -25,7 +25,7 @@ print('Nice hobby')"""
 
 # 3. Elif = Else If Statement
 
-age = input('How old are you? ')
+"""age = input('How old are you? ')
 
 if age=='15':
     print('You are a teenager')
@@ -33,9 +33,16 @@ elif age=='50':
     print('You are an elder')
 else:
     print('Just kidding, hehe')
-print('Okay')
+print('Okay')"""
 
+# 4. While loop
 
+chance = 0
+limit = 3
+
+while chance < limit:
+    print(chance)
+    chance += 1
 
 
 
