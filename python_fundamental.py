@@ -49,7 +49,7 @@ while chance < limit:
 for i in range(1, 15, 2): # start finish step
     print(i)
 
-# with ssh
+# with ssh oke
 
 
 
