@@ -50,6 +50,7 @@ for i in range(1, 15, 2): # start finish step
     print(i)
 
 # with ssh oke
+# python 3.10
 
 
 
